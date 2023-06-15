@@ -1,16 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Lenny Yambao </h1>
 
-<!--
-**lennin6/lennin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a full-stack Software Engineer currently working on Quell 🐦, a caching solution for GraphQL queries.</h3>
 
-Here are some ideas to get you started:
+<div style="margin-top: 16px;" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenny-yambao/)
+
+</div>
+
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="30" height="30"/>
+    <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="postgresql" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="30" height="30"/>  
+    <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="30" height="30"/>  
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="30" height="30"/> 
+</p>
+
+### My toolset:
+
+- Languages >> TypeScript, JavaScript
+- Front-End >> React.js
+- Back-End >> Node.js, Express
+- APIs >> RESTFul APIs, GraphQL
+- Databases >> PostgreSQL, MongoDB, Redis
+- CSS >> Vanilla, Sass, TailwindCSS
+- Testing >> Jest
+- Deployment >> Docker, AWS
+- Version Control >> Git
+
+</div>
