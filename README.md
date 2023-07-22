@@ -30,13 +30,13 @@
 
 ### My toolset:
 
-- Languages >> TypeScript, JavaScript
+- Languages >> TypeScript, JavaScript, SQL, HTML, CSS
 - Front-End >> React.js
 - Back-End >> Node.js, Express
 - APIs >> RESTFul APIs, GraphQL
 - Databases >> PostgreSQL, MongoDB, Redis
 - CSS >> Vanilla, Sass, TailwindCSS
-- Testing >> Jest
+- Testing >> Jest, Mocha, Supertest, Cypress
 - Deployment >> Docker, AWS
 - Version Control >> Git
 
