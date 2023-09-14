@@ -31,7 +31,7 @@
 ### My toolset:
 
 - Languages >> TypeScript, JavaScript, SQL, HTML, CSS
-- Front-End >> React.js
+- Front-End >> React.js, Next.js
 - Back-End >> Node.js, Express
 - APIs >> RESTFul APIs, GraphQL
 - Databases >> PostgreSQL, MongoDB, Redis
