@@ -33,7 +33,7 @@
 - Languages >> TypeScript, JavaScript, SQL, HTML, CSS
 - Front-End >> React.js, Next.js
 - Back-End >> Node.js, Express
-- APIs >> RESTFul APIs, GraphQL
+- APIs >> REST, GraphQL
 - Databases >> PostgreSQL, MongoDB, Redis
 - CSS >> Vanilla, Sass, TailwindCSS
 - Testing >> Jest, Mocha, Supertest, Cypress
